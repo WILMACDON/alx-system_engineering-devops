@@ -1,2 +1,2 @@
 #!/bin/bash
-git update-index --replace --chmod=+X hello 
+chmod ugo+x hello 
